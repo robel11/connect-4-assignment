@@ -37,6 +37,7 @@ bool isDraw(int piecesPlayed){
 bool isWin(Player player, char board[][COLUMNS]){
 	// your code here
 	return false;
+
 }
 
 
